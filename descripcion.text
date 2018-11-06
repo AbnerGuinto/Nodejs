@@ -1,0 +1,22 @@
+Esta aplicacion contiene los siguientes puntos
+1.- Login
+2.- Registro de usuario con imagen
+3.- Reset password con el envio de un link por medio de correo 
+4.- Crud
+    + Nombre
+    + Apellido paterno
+    + Apellido materno
+    + Telefono
+    + Correo
+    + Imagen
+5.- Reporte pdf
+6.- Reporte en excel
+7.- Consumir una api
+8.- Crear un api
+
+Herramientas a utilizar:
+1.- mongodb
+2.- nodejs
+3.- express
+4.- motor de plantillas ejs
+5.- bootstrap
